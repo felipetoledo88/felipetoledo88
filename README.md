@@ -1,9 +1,10 @@
 <strong>## Olá, meu nome é Felipe Toledo!</strong> 🖖
 Dev / Designer
 
-- 💻 Atualmente trabalhando na NextAge como Desenvolvedor, com foco em Front-End.
+- 💻 Atualmente trabalhando como Analista Desenvolvedor em NextAge 
 - 📕 Estudando Análise e Desenvolvimento de Sistemas.
-- ✏ Estudando UX/UI Design / JAVA 
+- 🎨  Foco em Front End.
+- ✍ (Angular | JS/TS | HTML/CSS | Bootstrap | Git/GitHub | MySql )
  
 Dia após dia evoluindo...
 
