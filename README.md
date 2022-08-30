@@ -1,5 +1,4 @@
 <strong>## Olá, meu nome é Felipe Toledo!</strong> 🖖
-Dev / Designer
 
 - 💻 Atualmente trabalhando como Analista Desenvolvedor em NextAge 
 - 📕 Estudando Análise e Desenvolvimento de Sistemas.
