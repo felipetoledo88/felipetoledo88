@@ -21,7 +21,7 @@ Dia após dia evoluindo...
   <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Felipe-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-   <img align="right" height="100" width="100" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
+   <img align="right" height="150" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
   
   </div>
  <br>
