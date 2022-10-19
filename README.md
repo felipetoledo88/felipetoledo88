@@ -7,6 +7,10 @@
  
 Dia após dia evoluindo...
 
+<div>
+   <img align="center" height="200" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
+ </div>
+
 <div align="center">
   <a href="https://github.com/felipetoledo88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetoledo88&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -20,7 +24,6 @@ Dia após dia evoluindo...
   <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Felipe-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="200" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
   </div>
 
  <br>
