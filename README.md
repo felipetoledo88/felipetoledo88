@@ -32,5 +32,5 @@ Dia após dia evoluindo...
  
  ![Snake animation](https://github.com/felipetoledo88/felipetoledo88/blob/output/github-contribution-grid-snake.svg)
  <div align="center">
-   <img align="center" height="200" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
+   <img align="center" height="200" width="200" src="https://i.picasion.com/pic92/3061d668a4457ec375bbfa1b6e166893.gif">
  </div>
