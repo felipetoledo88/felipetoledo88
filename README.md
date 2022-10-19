@@ -8,7 +8,7 @@
 Dia após dia evoluindo...
 
 <div>
-   <img align="center" height="200" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
+   <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/960603884722741359/1032438054675288104/Avatar-Maker.png">
  </div>
 
 <div align="center">
