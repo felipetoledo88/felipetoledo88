@@ -2,7 +2,6 @@
 
 - 💻 Atualmente trabalhando como Analista Desenvolvedor em NextAge 
 - 📕 Estudando Análise e Desenvolvimento de Sistemas.
-- 🎨  Foco em Front End.
 - ✍ (Angular | React | JS/TS | NodeJS | Git/GitHub | MySql )
  
 Dia após dia evoluindo...
