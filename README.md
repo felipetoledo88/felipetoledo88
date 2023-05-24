@@ -2,7 +2,7 @@
 
 - 💻 Atualmente trabalhando como FullStack Developer na NextAge
 - 📕 Formação em Análise e Desenvolvimento de Sistemas
-- ✍ Tecnologias: React, React Native, Node.js, AdonisJS, TypeScript, Azure, MySQL
+- ✍ Tecnologias: Typescript, React, React Native, NodeJS, Adonis, Angular, MySQL, SQLServer e Azure.
 
 Dia após dia evoluindo...
 
