@@ -19,6 +19,7 @@ Dia após dia evoluindo...
   <img align="center" alt="Adonis" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
+  <img align="center" alt="Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">    
 </div>
 
 <br>
