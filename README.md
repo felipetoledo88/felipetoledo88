@@ -2,9 +2,16 @@
 
 - 💻 Atualmente trabalhando como FullStack Developer na NextAge
 - 📕 Formação em Análise e Desenvolvimento de Sistemas
-- ✍ Tecnologias: Typescript, React, React Native, NodeJS, Adonis, Angular, MySQL, SQLServer e Azure.
-
-Dia após dia evoluindo...
+- ✍ Tecnologias:
+  • React
+  • React Native
+  • NodeJS (Adonis|Express)
+  • Javascript / Typescript
+  • Angular
+  • MySQL | PostgreSQL
+  • Google Cloud (GCP) | Azure
+  
+ Dia após dia evoluindo...
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetoledo88&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
