@@ -1,6 +1,6 @@
 <h2 align="center">Olá, meu nome é Felipe Toledo! 🖖</h2>
 
-- 💻 FullStack Developer e Tech Lead em @NextAge
+- 💻 Desenvolvedor Fullstack e Tech Lead em @NextAge
 - 📕 Formado em Análise e Desenvolvimento de Sistemas
  Tecnologias:
   • React
