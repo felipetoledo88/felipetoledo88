@@ -10,6 +10,19 @@
   📈 Apaixonado por criar soluções escaláveis e eficientes
 </div>
 
+<h2 align="left">🤝 Contatos</h2>
+<div align="left">
+  <a href="mailto:felipetoledo88@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-toledo-25502a1a1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/felipetoledo88" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake-dark.svg">
@@ -25,8 +38,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetoledo88&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 </div>
-
-
 
 
 <h2 align="left">🛠️ Stack Tecnológico</h2>
@@ -51,24 +62,8 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,confluence&theme=dark" />
 </div>
 
----
-
 <h2 align="left">📊 Atividade no GitHub</h2>
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipetoledo88&theme=github_dark" />
 </div>
 
----
-
-<h2 align="left">🤝 Contatos</h2>
-<div align="left">
-  <a href="mailto:felipetoledo88@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-toledo-25502a1a1/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/felipetoledo88" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
