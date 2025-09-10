@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Felipe+Toledo!" alt="Typing SVG" />
 </div>
 
-<h2 align="left">🚀 Sobre Mim</h2>
-<div align="left">
-  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
-  🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
-  🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
-  📈 Apaixonado por criar soluções escaláveis e eficientes
-</div>
-
 <h2 align="left">🤝 Contatos</h2>
 <div align="left">
   <a href="mailto:felipetoledo88@gmail.com">
@@ -21,6 +13,14 @@
   <a href="https://github.com/felipetoledo88" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<h2 align="left">🚀 Sobre Mim</h2>
+<div align="left">
+  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
+  🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
+  🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
+  📈 Apaixonado por criar soluções escaláveis e eficientes
 </div>
 
 <div align="center">
