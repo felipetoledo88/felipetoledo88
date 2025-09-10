@@ -22,28 +22,33 @@
 
 ---
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<<h2 align="center">🛠️ Stack Tecnológico</h2>
 
 <div align="center">
 
-### Frontend
+<!-- Frontend -->
+<p><b>Frontend</b></p>
 <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,sass&theme=dark" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,adonis,express,nestjs&theme=dark" />
+<!-- Backend -->
+<p><b>Backend</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,adonis,express,nestjs,springboot,kotlin&theme=dark" />
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<span style="margin-left: 8px;"/>
+<!-- Mobile -->
+<p><b>Mobile</b></p>
+<img src="https://skillicons.dev/icons?i=react,reactnative,kotlin&theme=dark" />
 
-### Database
+<!-- Database -->
+<p><b>Database</b></p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&theme=dark" />
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=gcp,azure,docker,git,github&theme=dark" />
+<!-- Cloud & DevOps -->
+<p><b>Cloud & DevOps</b></p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,jenkins,kubernetes&theme=dark" />
 
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+<!-- Ferramentas -->
+<p><b>Ferramentas</b></p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jira,confluence&theme=dark" />
 
 </div>
 
