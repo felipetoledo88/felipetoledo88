@@ -21,10 +21,9 @@
 </div>
 
 ---
+<h2 align="center">🛠️ Stack Tecnológico</h2>
 
-<<h2 align="center">🛠️ Stack Tecnológico</h2>
-
-<div align="center">
+<div align="left">
 
 <!-- Frontend -->
 <p><b>Frontend</b></p>
@@ -51,6 +50,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,jira,confluence&theme=dark" />
 
 </div>
+
 
 ---
 
