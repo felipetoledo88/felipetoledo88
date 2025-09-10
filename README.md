@@ -17,10 +17,9 @@
 
 <h2 align="left">🚀 Sobre Mim</h2>
 <div align="left">
-  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
+  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> em @NextAge<br>
   🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
-  🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
-  📈 Apaixonado por criar soluções escaláveis e eficientes
+  🎓 <strong>Pós-graduando</strong> em Especialização em Inteligência Artificial<br>
 </div>
 
 <div align="center">
@@ -62,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,confluence&theme=dark" />
 </div>
 
-<h2 align="left">📊 Atividade no GitHub</h2>
+<h2 align="left">📊 Atividades no GitHub</h2>
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipetoledo88&theme=github_dark" />
 </div>
