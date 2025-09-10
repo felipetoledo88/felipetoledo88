@@ -2,6 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Felipe+Toledo!" alt="Typing SVG" />
 </div>
 
+<h2 align="left">🚀 Sobre Mim</h2>
+<div align="left">
+  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
+  🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
+  🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
+  📈 Apaixonado por criar soluções escaláveis e eficientes
+</div>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetoledo88&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C9D1D9"/>
 </div>
@@ -10,15 +26,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetoledo88&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 </div>
 
----
-<h2 align="left">🚀 Sobre Mim</h2>
-<div align="left">
-  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
-  🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
-  🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
-  📈 Apaixonado por criar soluções escaláveis e eficientes
-</div>
----
+
+
+
 <h2 align="left">🛠️ Stack Tecnológico</h2>
 <div align="left">
 <!-- Frontend -->
@@ -61,12 +71,4 @@
   <a href="https://github.com/felipetoledo88" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
