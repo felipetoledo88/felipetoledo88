@@ -15,9 +15,12 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 <div align="center">
-💻 **Desenvolvedor Fullstack & Tech Lead** em @NextAge  
-📕 **Formado** em Análise e Desenvolvimento de Sistemas  
+💻 **Desenvolvedor Fullstack & Tech Lead** na <strong>NextAge</strong>  
+🎓 **Formado** em Análise e Desenvolvimento de Sistemas  
+🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud  
+📈 Apaixonado por criar soluções escaláveis e eficientes  
 </div>
+
 
 ---
 <h2 align="center">🛠️ Stack Tecnológico</h2>
