@@ -27,7 +27,7 @@
 
 <!-- Frontend -->
 <p><b>Frontend</b></p>
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css&theme=dark" />
 
 <!-- Backend -->
 <p><b>Backend</b></p>
@@ -35,19 +35,19 @@
 
 <!-- Mobile -->
 <p><b>Mobile</b></p>
-<img src="https://skillicons.dev/icons?i=react,reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" />
 
 <!-- Database -->
 <p><b>Database</b></p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
 
 <!-- Cloud & DevOps -->
 <p><b>Cloud & DevOps</b></p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,jenkins,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,kubernetes&theme=dark" />
 
 <!-- Ferramentas -->
 <p><b>Ferramentas</b></p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jira,confluence&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,confluence&theme=dark" />
 
 </div>
 
