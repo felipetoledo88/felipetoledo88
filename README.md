@@ -12,13 +12,6 @@
 • MySQL | PostgreSQL
 • Google Cloud (GCP) | Azure
 
-Dia após dia evoluindo...
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetoledo88&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetoledo88&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
 <h3 align="center">Principais Tecnologias:</h3>
 <div align="center">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
