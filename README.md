@@ -56,11 +56,6 @@
 <!-- Cloud & DevOps -->
 <p><b>Cloud & DevOps</b></p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,kubernetes&theme=dark" />
-<!-- Ferramentas -->
-<p><b>Ferramentas</b></p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,confluence&theme=dark" />
-</div>
-
 <h2 align="left">📊 Atividades no GitHub</h2>
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipetoledo88&theme=github_dark" />
