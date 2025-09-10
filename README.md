@@ -16,12 +16,8 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 <div align="center">
-  
 💻 **Desenvolvedor Fullstack & Tech Lead** em @NextAge  
 📕 **Formado** em Análise e Desenvolvimento de Sistemas  
-🌱 **Sempre aprendendo** novas tecnologias  
-⚡ **Apaixonado** por resolver problemas complexos  
-
 </div>
 
 ---
@@ -38,7 +34,7 @@
 
 ### Mobile
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<span style="margin-left: 8px;">React Native</span>
+<span style="margin-left: 8px;"/>
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&theme=dark" />
@@ -61,7 +57,7 @@
 
 ---
 
-<h2 align="center">🤝 Vamos Conectar?</h2>
+<h2 align="center">🤝 Contatos</h2>
 
 <div align="center">
   <a href="mailto:felipetoledo88@gmail.com">
