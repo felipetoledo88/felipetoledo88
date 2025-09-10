@@ -10,7 +10,7 @@
   📈 Apaixonado por criar soluções escaláveis e eficientes
 </div>
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipetoledo88/felipetoledo88/output/github-contribution-grid-snake.svg">
@@ -18,11 +18,11 @@
   </picture>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetoledo88&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C9D1D9"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetoledo88&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 </div>
 
