@@ -3,11 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipetoledo88&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetoledo88&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetoledo88&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 </div>
 
