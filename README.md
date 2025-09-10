@@ -11,63 +11,47 @@
 </div>
 
 ---
-
 <h2 align="left">🚀 Sobre Mim</h2>
-
 <div align="left">
   💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
   🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
   🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
   📈 Apaixonado por criar soluções escaláveis e eficientes
 </div>
-
-
-
 ---
-<h2 align="center">🛠️ Stack Tecnológico</h2>
-
+<h2 align="left">🛠️ Stack Tecnológico</h2>
 <div align="left">
-
 <!-- Frontend -->
 <p><b>Frontend</b></p>
 <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css&theme=dark" />
-
 <!-- Backend -->
 <p><b>Backend</b></p>
 <img src="https://skillicons.dev/icons?i=nodejs,adonis,express,nestjs,springboot&theme=dark" />
-
 <!-- Mobile -->
 <p><b>Mobile</b></p>
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
 <!-- Database -->
 <p><b>Database</b></p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
-
 <!-- Cloud & DevOps -->
 <p><b>Cloud & DevOps</b></p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,kubernetes&theme=dark" />
-
 <!-- Ferramentas -->
 <p><b>Ferramentas</b></p>
 <img src="https://skillicons.dev/icons?i=vscode,postman,confluence&theme=dark" />
-
 </div>
-
 
 ---
 
 <h2 align="center">📊 Atividade no GitHub</h2>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipetoledo88&theme=github_dark" />
 </div>
 
 ---
 
-<h2 align="center">🤝 Contatos</h2>
-
-<div align="center">
+<h2 align="left">🤝 Contatos</h2>
+<div align="left">
   <a href="mailto:felipetoledo88@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
