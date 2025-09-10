@@ -35,7 +35,7 @@
 
 <!-- Mobile -->
 <p><b>Mobile</b></p>
-<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
 
 <!-- Database -->
 <p><b>Database</b></p>
