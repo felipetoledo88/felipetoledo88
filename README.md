@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Felipe+Toledo!+🖖;Fullstack+Developer;Tech+Lead+%40+NextAge;Sempre+evoluindo..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipetoledo88&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5&text_color=C9D1D9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetoledo88&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C9D1D9"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetoledo88&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=C9D1D9"/>
@@ -8,8 +16,12 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 <div align="center">
+  
 💻 **Desenvolvedor Fullstack & Tech Lead** em @NextAge  
 📕 **Formado** em Análise e Desenvolvimento de Sistemas  
+🌱 **Sempre aprendendo** novas tecnologias  
+⚡ **Apaixonado** por resolver problemas complexos  
+
 </div>
 
 ---
