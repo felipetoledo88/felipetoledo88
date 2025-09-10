@@ -31,11 +31,11 @@
 
 <!-- Backend -->
 <p><b>Backend</b></p>
-<img src="https://skillicons.dev/icons?i=nodejs,adonis,express,nestjs,springboot,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,adonis,express,nestjs,springboot&theme=dark" />
 
 <!-- Mobile -->
 <p><b>Mobile</b></p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,reactnative&theme=dark" />
 
 <!-- Database -->
 <p><b>Database</b></p>
