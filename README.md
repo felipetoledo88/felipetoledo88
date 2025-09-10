@@ -12,9 +12,9 @@
 
 ---
 
-<h2 align="center">🚀 Sobre Mim</h2>
+<h2 align="left">🚀 Sobre Mim</h2>
 
-<div align="center">
+<div align="left">
   💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> na NextAge<br>
   🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
   🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e cloud<br>
