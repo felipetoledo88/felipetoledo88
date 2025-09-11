@@ -17,7 +17,7 @@
 
 <h2 align="left">🚀 Sobre Mim</h2>
 <div align="left">
-  💻 <strong>Desenvolvedor Fullstack & Tech Lead</strong> em @NextAge<br>
+  💻 <strong>Tech Lead</strong> em @NextAge<br>
   🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas<br>
   🎓 <strong>Pós-graduando</strong> em Especialização em Inteligência Artificial<br>
 </div>
